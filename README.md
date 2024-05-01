@@ -20,7 +20,7 @@ Skills: Java | Kotlin | Dart | Jetpack | Flutter
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jumaer&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/Jumaer)  
+
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Jumaer)  
 
