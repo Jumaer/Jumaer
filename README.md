@@ -6,9 +6,14 @@
 
 Passionate about crafting innovative solutions and pushing the boundaries of mobile technology, I am a seasoned Android developer with a track record of delivering high-quality software products. With expertise in Kotlin, Java, coroutines, and a strong understanding of modern development practices, I thrive in dynamic environments where complex challenges await.
 
-Skills: Java | Kotlin | Dart | Jetpack | Flutter
+## 👨‍💻 Skills & Experiance: 
+✅ Java <br> 
+✅ Kotlin <br>
+✅ Dart <br>
+✅ HTML | CSS | MYSQL <br>
+✅ Jetpack | Flutter <br>
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on office project. 
 - 🌱 I’m currently learning Backend 
 - 👯 I’m looking to collaborate on multiple projects based on new technology. 
 - 💬 Ask me about Android Development 
